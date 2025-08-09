@@ -33,13 +33,11 @@ A modern, responsive, and pixel-perfect **Slack Landing Page** clone built using
 
 ---
 
----
-
 ## ⚙️ Setup & Installation
 
-1. **Clone the repo**
+**Clone the repo**
 
-```bash
+```
 git clone https://github.com/a2rp/slack-landing-page-design.git
 cd slack-landing-page-design
 ```
@@ -56,8 +54,7 @@ Run the project locally
 npm run dev
 ```
 
-📌 Learnings
-Practiced responsive design and mobile-first approach
+📌 Learnings: Practiced responsive design and mobile-first approach.
 Improved understanding of animations and transitions in modern UIs
 
 💡 If you like this project, don’t forget to ⭐ the repo!
