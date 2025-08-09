@@ -2,8 +2,7 @@
 
 A modern, responsive, and pixel-perfect **Slack Landing Page** clone built using **React + Vite**, styled with **Styled Components/TailwindCSS** (as per your setup), and enhanced with smooth animations.
 
-🔗 **Live Demo:** [View on GitHub Pages](https://a2rp.github.io/slack-landing-page-design/)  
-📦 **Repository:** [GitHub Repo](https://github.com/a2rp/slack-landing-page-design)
+🔗 <a href="https://a2rp.github.io/slack-landing-page-design/" target="_blank">**Live Demo**</a>
 
 ---
 
@@ -37,7 +36,7 @@ A modern, responsive, and pixel-perfect **Slack Landing Page** clone built using
 
 **Clone the repo**
 
-```
+```bash
 git clone https://github.com/a2rp/slack-landing-page-design.git
 cd slack-landing-page-design
 ```
