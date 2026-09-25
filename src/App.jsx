@@ -1,4 +1,5 @@
 import { createElement, useEffect, useState } from "react";
+import { FaFacebookF, FaLinkedinIn, FaYoutube } from "react-icons/fa6";
 import {
     FiArrowRight,
     FiArrowUp,
@@ -6,8 +7,11 @@ import {
     FiCheck,
     FiChevronDown,
     FiCode,
+    FiCoffee,
     FiGlobe,
+    FiGithub,
     FiHeart,
+    FiMail,
     FiMenu,
     FiMessageCircle,
     FiPlay,
@@ -27,13 +31,14 @@ const features = [
 ];
 const footerLinks = [
     ["Portfolio", "https://www.ashishranjan.net/", FiGlobe],
-    ["GitHub", "https://github.com/a2rp", FiCode],
+    ["GitHub", "https://github.com/a2rp", FiGithub],
     ["CodePen", "https://codepen.io/ash1198", FiCode],
-    ["LinkedIn", "https://www.linkedin.com/in/aashishranjan", FiUsers],
-    ["Facebook", "https://www.facebook.com/theash.ashish/", FiGlobe],
-    ["YouTube", "https://www.youtube.com/@ashishranjan-ashz?sub_confirmation=1", FiPlay],
+    ["LinkedIn", "https://www.linkedin.com/in/aashishranjan", FaLinkedinIn],
+    ["Facebook", "https://www.facebook.com/theash.ashish/", FaFacebookF],
+    ["YouTube", "https://www.youtube.com/@ashishranjan-ashz?sub_confirmation=1", FaYoutube],
+    ["Email", "mailto:ash.ranjan09@gmail.com", FiMail],
     ["Support", "https://a2rp-donation-page.netlify.app/", FiHeart],
-    ["Buy Me a Coffee", "https://buymeacoffee.com/a2rp", FiHeart],
+    ["Buy Me a Coffee", "https://buymeacoffee.com/a2rp", FiCoffee],
     ["Patreon", "https://patreon.com/a2rp", FiShield],
 ];
 
